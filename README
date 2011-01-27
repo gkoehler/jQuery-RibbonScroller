@@ -1,0 +1,3 @@
+jQuery RibbonScroller allows you to create a scrolling "ribbon" of clickable images. This is useful when vertical space is limited and you want to animate a photo album. 
+
+The markup is simple and degrades for browsers with javascript turned off. You can add any CSS styles you like and there are no dependencies, other than jQuery. Different options can be passed in to specify the dimensions of the ribbon and the images, see the top of the .js file for details.
